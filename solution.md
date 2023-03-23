@@ -1,3 +1,7 @@
+After understanding the encryption code, getting the length of the ciphertext and knowing how many characters (i.e key +1 ) to go before each slicing leads me to decrypting
+
+
+
 | Cyphertext | Key | Plaintext |
 | -------- | -------- | -------- |
 | YFwoJeELOvlDVrOlNBDConouLwhdCC mkIjsYeKsuaGsDbSRJymLJVOaYNQRrgKBSifPOdnCbUleWCbf | 4 | Yellow submarine |
